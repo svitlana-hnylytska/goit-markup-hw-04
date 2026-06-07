@@ -21,11 +21,11 @@
     gap: 24px;
 }
 
-.our-features li {
+.features-item {
     flex-basis: 264px;
 }
 
-.our-features h3 {
+.features-title {
     font-family: 'Raleway';
     font-weight: 500;
     font-size: 20px;
@@ -35,7 +35,7 @@
     color: var(--navy-blue);
 }
 
-.our-features p {
+.features-text {
     font-family: 'Raleway';
     font-weight: 400;
     font-size: 16px;

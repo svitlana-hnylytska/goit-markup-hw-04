@@ -73,15 +73,7 @@
     list-style: none;
 }
 
-.social-link {
-    width: 40px;
-    height: 40px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    border-radius: 50%;
+.team .social-link {
     background-color: #4d5ae5;
 }
 
