@@ -8,6 +8,14 @@
     align-items: center;
 }
 
+.nav-link {
+    position: relative;
+}
+
+.nav-link::after {
+    content: "";
+}
+
 .logo {
     font-family: 'Raleway', sans-serif;
     margin-right: 76px;

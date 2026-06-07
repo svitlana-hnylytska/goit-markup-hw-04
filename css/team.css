@@ -55,3 +55,7 @@
 .team-text {
     padding: 32px 16px;
 }
+
+.social-link svg {
+    fill: #f4f4fd;
+}

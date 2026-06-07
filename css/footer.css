@@ -3,6 +3,10 @@
     background: var(--navy-blue);
 }
 
+.footer-container-left {
+    margin-right: 50px;
+}
+
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;

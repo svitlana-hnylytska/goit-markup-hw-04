@@ -43,3 +43,7 @@
     letter-spacing: 0.02em;
     color: var(--slate);
 }
+
+.features-icon svg {
+    fill: #2e2f42;
+}
